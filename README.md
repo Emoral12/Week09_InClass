@@ -1,3 +1,19 @@
+# Bonus Marks
+## Command Pattern Implementation
+For the bonus marks assignment, I implemented a simple Command Pattern implementation that allows for the plyaer's inputs and car's movements to be entirely compartmentalized and command-based. The logic behind the pattern is simple and as instructed in class, we have an input which is then encapsulated by the engine, and that encapsulated command is then called to execute a different event. All resulting in the player moving.
+
+Diagram:
+<img width="1063" height="430" alt="image" src="https://github.com/user-attachments/assets/37ed15fb-709f-4ad3-ab16-c6e37d1bc440" />
+
+
+## Proof of Course Feedback
+Here lies the proof of me completing the course feedback survey for this class.
+<img width="1842" height="1000" alt="Screenshot 2025-11-20 173708" src="https://github.com/user-attachments/assets/962e4a3c-d401-4c01-877b-aa35e5628818" />
+
+## Proof of In-Class Review
+Here is a link containing the review document made for the review content presented in class.
+https://docs.google.com/document/d/12eKNKINx1BhqWvkqD7fpSIv64je94O-KcPTOqYyfA6Q/edit?usp=sharing 
+
 # Week09_InClass
 Eugenio Morales - 100943481
 Developed with Unreal Engine 5
